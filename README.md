@@ -24,14 +24,14 @@
 &nbsp; 
 # Screenshot
 #### Home
-![N|Solid](https://raw.githubusercontent.com/betrybe/liara-desafio-tecnico/liara-crypto-index/screenshot/home.png?token=AC5ITQ2PNBIXRNYFRNPIZSC67PJF4)
+![N|Solid](https://github.com/liara987/desafio-trybe/blob/master/screenshot/home.png)
 
 &nbsp; 
 #### Login
-![N|Solid](https://raw.githubusercontent.com/betrybe/liara-desafio-tecnico/liara-crypto-index/screenshot/login.png?token=AC5ITQ6CVDMHHF5PMVQN6BS67PJFO)
+![N|Solid](https://github.com/liara987/desafio-trybe/blob/master/screenshot/login.png)
 
 &nbsp; 
 #### Atualizar
-![N|Solid](https://raw.githubusercontent.com/betrybe/liara-desafio-tecnico/liara-crypto-index/screenshot/atualizar.png?token=AC5ITQ6CYOG3WR5HI24ZJDK67PJGG)
+![N|Solid](https://github.com/liara987/desafio-trybe/blob/master/screenshot/atualizar.png)
 
 
