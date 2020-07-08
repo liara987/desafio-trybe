@@ -1,0 +1,49 @@
+/* login */
+
+#email-label {
+    position: absolute;
+    width: 124px;
+    height: 59px;
+    left: 371px;
+    top: 211px;
+}
+
+#email-input {
+    position: absolute;
+    width: 698px;
+    height: 107px;
+    left: 371px;
+    top: 292px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 59px;
+}
+
+#password-label {
+    position: absolute;
+    width: 139px;
+    height: 59px;
+    left: 371px;
+    top: 423px;
+}
+
+#password-input {
+    position: absolute;
+    width: 698px;
+    height: 107px;
+    left: 371px;
+    top: 499px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 59px;
+}

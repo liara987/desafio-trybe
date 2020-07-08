@@ -1,0 +1,28 @@
+body {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 59px;
+  color: #000000;
+  text-align: center;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+.button {
+  position: absolute;
+  width: 698px;
+  height: 107px;
+  left: 371px;
+  top: 706px;
+  background: #5FE122;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 59px;
+  color: #000000;
+}

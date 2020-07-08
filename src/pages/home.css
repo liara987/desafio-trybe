@@ -1,0 +1,112 @@
+/* home */
+
+#atualizar {
+    position: absolute;
+    width: 740px;
+    height: 99px;
+    left: 350px;
+    top: 220px;
+    background: #C4C4C4;
+    color: #000000;
+    padding-top: 3%;
+}
+
+#btc-label {
+    position: absolute;
+    width: 93px;
+    height: 59px;
+    left: 673px;
+    top: 443px;
+}
+
+#btc-input {
+    position: absolute;
+    width: 157px;
+    height: 98px;
+    left: 641px;
+    top: 502px;
+    background: #C4C4C4;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 59px;
+    color: #000000;
+    text-align: center;
+}
+
+#USD-label {
+    position: absolute;
+    width: 95px;
+    height: 59px;
+    left: 254px;
+    top: 646px;
+}
+
+#USD {
+    position: absolute;
+    width: 242px;
+    height: 98px;
+    left: 181px;
+    top: 705px;
+    background: #C4C4C4;
+    padding-top: 3%;
+    font-size: 25px;
+}
+
+#BRL-label {
+    position: absolute;
+    width: 89px;
+    height: 59px;
+    left: 535px;
+    top: 646px;
+}
+
+#BRL {
+    position: absolute;
+    width: 242px;
+    height: 98px;
+    left: 462px;
+    top: 705px;
+    background: #C4C4C4;
+    padding-top: 3%;
+    font-size: 25px;
+}
+
+#EUR-label {
+    position: absolute;
+    width: 92px;
+    height: 59px;
+    left: 809px;
+    top: 646px;
+}
+
+#EUR {
+    position: absolute;
+    width: 242px;
+    height: 98px;
+    left: 736px;
+    top: 705px;
+    background: #C4C4C4;
+    padding-top: 3%;
+    font-size: 25px;
+}
+
+#CAD-label {
+    position: absolute;
+    width: 98px;
+    height: 59px;
+    left: 1090px;
+    top: 647px;
+}
+
+#CAD {
+    position: absolute;
+    width: 242px;
+    height: 98px;
+    left: 1017px;
+    top: 706px;
+    background: #C4C4C4;
+    padding-top: 3%;
+    font-size: 25px;
+}

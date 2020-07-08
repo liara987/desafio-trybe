@@ -1,0 +1,77 @@
+/* atualizar */
+
+#voltar {
+    position: absolute;
+    width: 258px;
+    height: 79px;
+    left: 45px;
+    top: 45px;
+    background: #C4C4C4;
+    color: #000;
+    padding-top: 2%;
+}
+
+#currency {
+    position: absolute;
+    width: 698px;
+    height: 107px;
+    left: 371px;
+    top: 233px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 59px;
+    color: #000000;
+}
+
+#curency-label {
+    position: absolute;
+    width: 155px;
+    height: 59px;
+    left: 371px;
+    top: 157px;
+}
+
+#current-value-label {
+    position: absolute;
+    width: 251px;
+    height: 59px;
+    left: 371px;
+    top: 394px;
+}
+
+#current-value {
+    position: absolute;
+    width: 166px;
+    height: 59px;
+    left: 656px;
+    top: 394px;
+}
+
+#new-value-label {
+    position: absolute;
+    width: 238px;
+    height: 59px;
+    left: 371px;
+    top: 501px;
+}
+
+#new-value-input {
+    position: absolute;
+    width: 698px;
+    height: 107px;
+    left: 371px;
+    top: 577px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 59px;
+}
